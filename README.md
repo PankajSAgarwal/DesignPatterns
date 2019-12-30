@@ -1,2 +1,2 @@
 # DesignPatterns
-Learnings on Design Pappetrns based on GOF and EffectiveJava Design Patterns
+Learnings on Design Patterns based on GOF and EffectiveJava
