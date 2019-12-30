@@ -1,0 +1,47 @@
+package com.pankaj.designprinciples.solid.liskovprinciple;
+
+public class Square implements Shape {
+	
+	private int side;
+	
+	/*public Square(int side) {
+		super(side,side);
+	}*/
+	
+	public Square(int side) {
+		this.side = side;
+	}
+	
+	/*@Override
+	public void setWidth(int side) {
+		setSide(side);
+	}
+	
+	@Override
+	public void setHeight(int side) {
+		setSide(side);
+	}
+	
+	public void setSide(int side) {
+		super.setWidth(side);
+		super.setHeight(side);
+	}*/
+
+	public int getSide() {
+		return side;
+	}
+
+	public void setSide(int side) {
+		this.side = side;
+	}
+	
+	@Override
+	public int computeArea() {
+		
+		return side*side;
+	}
+
+	
+	
+	
+}
