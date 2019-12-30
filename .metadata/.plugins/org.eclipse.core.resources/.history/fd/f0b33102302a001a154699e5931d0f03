@@ -1,0 +1,11 @@
+package com.pankaj.deppendencyinv.begin;
+
+public class JSONFormatter implements Formatter {
+
+	@Override
+	public String format(Message message) throws FormatException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

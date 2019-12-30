@@ -1,0 +1,19 @@
+package com.pankaj.deppendencyinv.begin;
+
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.PrintWriter;
+
+public class MessagePrinter {
+	
+	public void writeMessage(Message msg, String filename) throws IOException {
+		
+		Formatter formatter = new JSONFormatter();
+		
+		PrintWriter writer = new PrintWriter(new FileWriter("text_msg.txt"));
+		
+		writer.println(formatter.format(msg));
+		
+	}
+
+}

@@ -1,0 +1,15 @@
+package com.pankaj.deppendencyinv.begin;
+
+import java.io.IOException;
+
+public class Main {
+
+	public static void main(String[] args) throws IOException {
+		
+		Message msg = new Message("This a message");
+		MessagePrinter printer = new MessagePrinter();
+		printer.writeMessage(msg, "test_msg.txt");
+
+	}
+
+}

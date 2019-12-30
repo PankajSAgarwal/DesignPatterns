@@ -1,0 +1,11 @@
+package com.pankaj.designpattern.factorymethod;
+
+public class TestMessageCreator extends MessageCreator {
+
+	@Override
+	public Message createMessage() {
+		
+		return new TextMessage();
+	}
+
+}

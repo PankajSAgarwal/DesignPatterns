@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.pankaj.designprinciples.solid.liskovprinciple.Rectangle"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="com.fasterxml.jackson.databind.ObjectMapper"/>
+<fullyQualifiedTypeName name="com.fasterxml.jackson.core.JsonProcessingException"/>
+<fullyQualifiedTypeName name="com.pankaj.deppendencyinv.begin.FormatException"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="java.io.FileWriter"/>
+<fullyQualifiedTypeName name="java.time.ZoneId"/>
+<fullyQualifiedTypeName name="com.pankaj.deppendencyinv.begin.MessagePrinter"/>
+<fullyQualifiedTypeName name="com.pankaj.deppendencyinv.begin.JSONFormatter"/>
+<fullyQualifiedTypeName name="java.io.PrintWriter"/>
+<fullyQualifiedTypeName name="java.time.LocalDateTime"/>
+<fullyQualifiedTypeName name="java.time.LocalDate"/>
+<fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="com.pankaj.designpattern.simplefactory.PostFactory"/>
+<fullyQualifiedTypeName name="com.pankaj.designpattern.factorymethod.JSONMessageCreator"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,7 @@
+package com.pankaj.deppendencyinv.begin;
+
+public class FormatException extends Exception {
+	
+	
+
+}

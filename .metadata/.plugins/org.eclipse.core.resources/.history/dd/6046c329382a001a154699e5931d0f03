@@ -1,0 +1,5 @@
+package com.pankaj.designpattern.simplefactory;
+
+public class ProductPost {
+
+}

@@ -1,0 +1,8 @@
+package com.pankaj.designpattern.simplefactory;
+
+public class Client {
+	
+	Post post = PostFactory.createPost("news");
+	System.out.println(post);
+
+}

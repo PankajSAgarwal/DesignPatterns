@@ -1,0 +1,7 @@
+package com.pankaj.designpattern.simplefactory;
+
+public class Blog extends Post{
+	
+	
+
+}

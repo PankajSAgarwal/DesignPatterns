@@ -1,0 +1,45 @@
+package com.pankaj.designpattern.builder;
+
+import java.time.LocalDate;
+
+public class UserWebDTOBuilder implements UserDTOBuilder{
+
+	@Override
+	public UserDTOBuilder withFirstName(String fname) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public UserDTOBuilder withLastName(String lname) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public UserDTOBuilder withBirthDay(LocalDate date) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public UserDTOBuilder withAddress(Address address) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public UserDTO build() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public UserDTO getUserDTO() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	
+	
+
+}

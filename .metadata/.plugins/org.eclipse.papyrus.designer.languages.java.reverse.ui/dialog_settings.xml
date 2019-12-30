@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="true" key="/SimpleFactoryDesignPattern/SimpleFactoryDesignPattern.uml:DISPLAY_PACKAGES"/>
+	<item value="1" key="/SimpleFactoryDesignPattern/SimpleFactoryDesignPattern.umlSimpleFactoryDesignPattern:selectedParserIndex"/>
+	<item value="src" key="/SimpleFactoryDesignPattern/SimpleFactoryDesignPattern.umlSimpleFactoryDesignPattern:projectName"/>
+	<item value="true" key="/SimpleFactoryDesignPattern/SimpleFactoryDesignPattern.uml:DISPLAY_MODEL"/>
+	<item value="true" key="/SimpleFactoryDesignPattern/SimpleFactoryDesignPattern.uml:DISPLAY_CU"/>
+	<list key="/SimpleFactoryDesignPattern/SimpleFactoryDesignPattern.umlSimpleFactoryDesignPattern:searchpaths">
+		<item value="com.pankaj.*"/>
+		<item value="java"/>
+		<item value="*"/>
+		<item value="osgi.*"/>
+		<item value="datatype"/>
+	</list>
+	<list key="/SimpleFactoryDesignPattern/SimpleFactoryDesignPattern.umlSimpleFactoryDesignPattern:creationpaths">
+		<item value="java.* ; ; java"/>
+		<item value="org.eclipse.papyrus.* ; ; *"/>
+		<item value="org.eclipse.* ; org.eclipse.papyrus.* ; *"/>
+		<item value=" org.osgi.* ; ; osgi.*"/>
+		<item value=" datatype.* ; ; datatype"/>
+	</list>
+</section>

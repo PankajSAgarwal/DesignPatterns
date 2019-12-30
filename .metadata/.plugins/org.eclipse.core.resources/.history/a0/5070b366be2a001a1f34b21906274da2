@@ -1,0 +1,23 @@
+package com.pankaj.designpattern.builder;
+
+public class UserWebDTO implements UserDTO {
+
+	@Override
+	public String getName() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public String getAddress() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public String getAge() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
