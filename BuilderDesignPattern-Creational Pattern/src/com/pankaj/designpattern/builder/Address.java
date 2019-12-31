@@ -2,7 +2,7 @@ package com.pankaj.designpattern.builder;
 
 public class Address {
 	
-private String houseNumber;
+	private String houseNumber;
 	
 	private String street;
 	

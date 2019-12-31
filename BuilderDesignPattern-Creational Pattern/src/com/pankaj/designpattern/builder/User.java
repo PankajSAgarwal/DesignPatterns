@@ -8,6 +8,7 @@ public class User {
 	private String firstName;
 	private String lastName;
 	private LocalDate birthdate;
+	private Address address;
 	
 	public String getFirstName() {
 		return firstName;
@@ -33,11 +34,5 @@ public class User {
 	public void setAddress(Address address) {
 		this.address = address;
 	}
-	private Address address;
 	
-	
-	
-	
-	
-
 }
